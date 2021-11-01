@@ -1,0 +1,2 @@
+https://github.com/TuringLang/Turing.jl
+https://github.com/FluxML/Flux.jl
